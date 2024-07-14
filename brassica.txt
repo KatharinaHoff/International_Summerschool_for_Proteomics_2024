@@ -1,0 +1,16 @@
+"group"	"height"
+"1"	"control"	10
+"2"	"control"	13.2
+"3"	"control"	19.8
+"4"	"control"	19.3
+"5"	"control"	21.2
+"6"	"control"	13.9
+"7"	"control"	20.3
+"8"	"control"	9.6
+"9"	"ancy"	13.2
+"10"	"ancy"	19.5
+"11"	"ancy"	11
+"12"	"ancy"	5.8
+"13"	"ancy"	12.8
+"14"	"ancy"	7.1
+"15"	"ancy"	7.7
