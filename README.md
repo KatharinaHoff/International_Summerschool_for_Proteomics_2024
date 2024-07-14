@@ -1,2 +1,7 @@
-# International_Summerschool_for_Proteomics_2024
-Statistics &amp; R Materials
+# International Summerschool for Proteomics_2024
+
+Katharina J. Hoff, University of Greifswald
+
+Contact: katharina.hoff@uni-greifswald.de
+
+This respository contains lecture slides, instructions for the practical session, and several data files.
